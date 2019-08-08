@@ -7,5 +7,6 @@ int add( int x, int y)
 
 int main()
 {
-
+    // d = add(a, b)
+    
 }
